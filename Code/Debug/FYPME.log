@@ -1,0 +1,17 @@
+﻿Build started 7/8/2013 2:14:40 AM.
+     1>Project "C:\Users\salomao\Documents\Code\FYPME\Game\FYPME.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\FYPME.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         FYPME.vcxproj -> C:\Users\salomao\Documents\Code\FYPME\Game\Debug\FYPME.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\FYPME.unsuccessfulbuild".
+         Touching "Debug\FYPME.lastbuildstate".
+     1>Done Building Project "C:\Users\salomao\Documents\Code\FYPME\Game\FYPME.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.16

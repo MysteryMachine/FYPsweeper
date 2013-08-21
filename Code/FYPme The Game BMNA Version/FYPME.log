@@ -1,0 +1,25 @@
+﻿Build started 7/8/2013 3:17:57 AM.
+     1>Project "C:\Users\salomao\Documents\Code\FYPME\Game\FYPME.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\FYPME.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"./SFML-2.0/include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FYPme.cpp
+         FYPme.cpp
+     1>FYPme.cpp(14): warning C4091: 'typedef ' : ignored on left of 'cell' when no variable is declared
+     1>FYPme.cpp(308): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>FYPme.cpp(308): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\salomao\Documents\Code\FYPME\Game\Release\FYPME.exe" /NOLOGO /LIBPATH:"SFML-2.0/lib/" "sfml-system.lib" "sfml-main.lib" "sfml-graphics.lib" "sfml-audio.lib" "sfml-network.lib" "sfml-window.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\FYPME.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\salomao\Documents\Code\FYPME\Game\Release\FYPME.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\salomao\Documents\Code\FYPME\Game\Release\FYPME.lib" /MACHINE:X86 Release\FYPme.obj
+         Generating code
+         Finished generating code
+         FYPME.vcxproj -> C:\Users\salomao\Documents\Code\FYPME\Game\Release\FYPME.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\salomao\Documents\Code\FYPME\Game\Release\FYPME.exe;#1" /manifest Release\FYPME.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\FYPME.unsuccessfulbuild".
+         Touching "Release\FYPME.lastbuildstate".
+     1>Done Building Project "C:\Users\salomao\Documents\Code\FYPME\Game\FYPME.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.24
